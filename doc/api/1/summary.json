@@ -64,7 +64,7 @@
         "error_log": []
     },
     "connection": {
-        "pool": "pool.monero.hashvault.pro:3333",
+        "pool": "donate.supportcryptonight.com:3333",
         "uptime": 953,
         "ping": 35,
         "failures": 0,
